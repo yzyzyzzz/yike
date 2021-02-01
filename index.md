@@ -14,13 +14,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 A cutie mess.
 
-## Her life
+## Chinese
 
-> This is a blockquote following a header.
+> Born and raised in Anhui.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> 18 years old.
 
-### Her thoughts
+### Emory 2024er
 
 ```js
 // Javascript code with syntax highlighting.
